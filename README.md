@@ -12,8 +12,8 @@ This paper has been accepted by SIAM Journal on Scientific Computing (SISC) whic
 # Citations
 
 Please cite our paper if you use this code in your own work:
-
-> @article{huang2021learning,
+```
+@article{huang2021learning,
   title={Learning optimal multigrid smoothers via neural networks},
   author={Huang, Ru and Li, Ruipeng and Xi, Yuanzhe},
   journal={arXiv preprint arXiv:2102.12071},
