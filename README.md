@@ -4,7 +4,7 @@ by Ru Huang, Ruipeng Li, Yuanzhe Xi
 
 This paper has been accepted by SIAM Journal on Scientific Computing (SISC) which be found on https://arxiv.org/abs/2102.12071.
 >Implementation of training a-CNN smoothers in Python. It is an efficent adaptive learning algorithm for learning smoothers formed by convolutional neural networks. 
-![](https://github.com/jerryhuangru/Learning-optimal-multigrid-smoothers-via-neural-networks/blob/main/figures/framework.png | width=100)  
+<img src="https://github.com/jerryhuangru/Learning-optimal-multigrid-smoothers-via-neural-networks/blob/main/figures/framework.png" width = 100>
 # Abstract
 
 
